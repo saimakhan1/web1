@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.a {
+  background-color: salmon;
+  padding: 10px;
+  margin: 20px;
+}
